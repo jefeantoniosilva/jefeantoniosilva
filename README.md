@@ -7,6 +7,7 @@
 ➡️ CSS <br>
 ➡️ JavaScript <br>
 ➡️ Python <br>
+➡️ PHP <br>
 
 # Sotwares
 🖥️ Adobe Photoshop <br>
