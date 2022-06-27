@@ -1,13 +1,16 @@
 # Sobre mim
 
-📌 Piracicaba - SP
+📌 Piracicaba, SP
 
-# Linguagens
+# Linguagens & outros
 ➡️ HTML <br>
 ➡️ CSS <br>
 ➡️ JavaScript <br>
 ➡️ Python <br>
 ➡️ PHP <br>
+➡️ MySQL <br>
+
+➡️ Bootstrap <br>
 
 # Sotwares
 🖥️ Adobe Photoshop <br>
